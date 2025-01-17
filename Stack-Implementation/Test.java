@@ -1,4 +1,3 @@
-//Eda Göçer, 21050111038
 
 public class Test {
 

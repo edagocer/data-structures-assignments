@@ -1,6 +1,5 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
-//Eda Göçer, 21050111038
 
 public class doOperations {
 	

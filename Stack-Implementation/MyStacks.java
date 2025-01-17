@@ -1,4 +1,4 @@
-//Eda Göçer, 21050111038
+
 class Node<E> {
 	public E data;
 	public Node<E> next;
